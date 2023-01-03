@@ -10,7 +10,7 @@ The computer vision library OpenCV was utilized to record over 5 different Ameri
 
 ![yes](https://user-images.githubusercontent.com/110922376/210288940-d4a215ca-8d98-4b4c-9ab1-e7f27bb6de08.gif)
 
-<img src="https://user-images.githubusercontent.com/110922376/210288940-d4a215ca-8d98-4b4c-9ab1-e7f27bb6de08.gif" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/110922376/210288940-d4a215ca-8d98-4b4c-9ab1-e7f27bb6de08.gif" width="300" height="225">
 
 #### *Hello*
 
