@@ -6,7 +6,7 @@ The computer vision library OpenCV was utilized to record over 5 different Ameri
 
 ### Gestures
 
-*Yes*
+#### Yes
 
 ![yes](https://user-images.githubusercontent.com/110922376/210288940-d4a215ca-8d98-4b4c-9ab1-e7f27bb6de08.gif)
 
@@ -26,6 +26,6 @@ The computer vision library OpenCV was utilized to record over 5 different Ameri
 
 ![NiceToMeetYou](https://user-images.githubusercontent.com/110922376/210289052-da944e7b-d0b4-425c-911c-86954bc7b082.gif)
 
-The two jupyter notebooks are given as: [Sign Action Detection Project Demo.ipynb](https://github.com/arkasingh/slar/blob/main/Sign%20Action%20Detection%20Project%20Demo.ipynb)  file, for demonstrating how frames were captured using OpenCV with keypoints marked using mediapipe, and *Sign Language Gesture Recognition Project.ipynb* file as the main project having all the neccesary code for capturing the said 5 gestures and then implemneting it for the action recognition LSTM training network.
+The two jupyter notebooks are given as: [Sign Action Detection Project Demo.ipynb](https://github.com/arkasingh/slar/blob/main/Sign%20Action%20Detection%20Project%20Demo.ipynb)  file, for demonstrating how frames were captured using OpenCV with keypoints marked using mediapipe, and [Sign Language Gesture Recognition Project.ipynb](https://github.com/arkasingh/slar/blob/main/Sign%20Language%20Gesture%20Recognition%20Project.ipynb) file as the main project having all the neccesary code for capturing the said 5 gestures and then implemneting it for the action recognition LSTM training network.
 
-The saved weight of the LSTM network with the data used in this project is given as *lstm_sign_action.h5*. It can be used as a base model for further finetuning the nectwork with gestures by different people with varied body languages captured in different lighting set up for better generalization.
+The saved weight of the LSTM network with the data used in this project is given as [*lstm_sign_action.h5*](https://github.com/arkasingh/slar/blob/main/lstm_sign_action.h5). It can be used as a base model for further finetuning the nectwork with gestures by different people with varied body languages captured in different lighting set up for better generalization.
