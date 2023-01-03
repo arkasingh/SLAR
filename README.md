@@ -6,23 +6,23 @@ The computer vision library OpenCV was utilized to record over 5 different Ameri
 
 ### Gestures
 
-#### Yes
+#### *Yes*
 
 ![yes](https://user-images.githubusercontent.com/110922376/210288940-d4a215ca-8d98-4b4c-9ab1-e7f27bb6de08.gif)
 
-*Hello*
+#### *Hello*
 
 ![hello](https://user-images.githubusercontent.com/110922376/210289010-7750aa89-dd79-445a-a48c-e6cf45d0c60e.gif)
 
-*No*
+#### *No*
 
 ![no](https://user-images.githubusercontent.com/110922376/210289021-a2fffe85-75f6-49b0-b679-78a12c2ea368.gif)
 
-*Thank You*
+#### *Thank You*
 
 ![ThankYou](https://user-images.githubusercontent.com/110922376/210289038-40c395a6-4c66-4b04-a2d3-cc7f17d03c8e.gif)
 
-*Nice To Meet You*
+#### *Nice To Meet You*
 
 ![NiceToMeetYou](https://user-images.githubusercontent.com/110922376/210289052-da944e7b-d0b4-425c-911c-86954bc7b082.gif)
 
